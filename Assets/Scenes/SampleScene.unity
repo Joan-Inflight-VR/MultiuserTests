@@ -543,9 +543,9 @@ GameObject:
   - component: {fileID: 347555081}
   - component: {fileID: 347555080}
   - component: {fileID: 347555085}
-  - component: {fileID: 347555084}
   - component: {fileID: 347555087}
   - component: {fileID: 347555086}
+  - component: {fileID: 347555084}
   m_Layer: 0
   m_Name: Grabable Cube
   m_TagString: Untagged
@@ -638,10 +638,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 347555079}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Script: {fileID: 11500000, guid: 445e5fadadc834a4b83ec91adab5d54a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_InteractionManager: {fileID: 1480854299}
+  m_InteractionManager: {fileID: 0}
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
