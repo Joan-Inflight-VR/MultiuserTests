@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IFVR_News_Room.unity
+    guid: cb24002c44472b44a82d8ef1e2190bed
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2e7a46080e6ba5f4fb4a6a6f7374e2cd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 27b26b36f7314904590ae5ed9b8770b5, type: 2}

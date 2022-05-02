@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 439522590}
   - component: {fileID: 439522591}
   m_Layer: 0
-  m_Name: NetworkManager
+  m_Name: Network Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -826,7 +826,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 439522586}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed5d6d3ed9897a341adcd736a46761d8, type: 3}
   m_Name: 
