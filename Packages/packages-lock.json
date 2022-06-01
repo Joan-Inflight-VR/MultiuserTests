@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.htc.upm.wave.xrsdk": {
+      "version": "4.5.0-r.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.management": "3.0.6"
+      },
+      "url": "https://npm-registry.vive.com"
+    },
     "com.unity.collab-proxy": {
       "version": "1.9.0",
       "depth": 0,
@@ -163,6 +172,13 @@
         "com.unity.subsystemregistration": "1.0.6",
         "com.unity.xr.interaction.toolkit": "0.9.4-preview"
       }
+    },
+    "jillejr.newtonsoft.json-for-unity": {
+      "version": "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f2c6cb09817832dccd0600f291053d8d55298ee9"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
